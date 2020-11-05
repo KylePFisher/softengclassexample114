@@ -1,4 +1,4 @@
-package q2refactored;
+package q2.form_template_method1.refactored;
 
 public class A {
    public static void main(String[] args) {

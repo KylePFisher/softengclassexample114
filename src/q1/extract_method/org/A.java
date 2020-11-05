@@ -1,4 +1,4 @@
-package q1org;
+package q1.extract_method.org;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package q1refactored;
+package q1.extract_method.refactored;
 
 import java.util.List;
 

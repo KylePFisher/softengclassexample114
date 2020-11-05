@@ -1,4 +1,4 @@
-package q2org;
+package q2.form_template_method1.org;
 
 public class A {
    public static void main(String[] args) {
